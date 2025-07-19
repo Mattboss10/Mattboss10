@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Matthew Cohen, a first year student at UWI Mona, I'm interested in Software Development and all things Quantum Computing. 👾
+My name is Matthew Cohen, a first year student at UWI Mona studying Computer Science, I am interested in Software Development and have a passion for all things Computing. 👾
 
 - 🔭 I’m currently working on a project called [CleanFlow](https://github.com/Mattboss10/ProjectCleanFlow), a multihzard reporting app to improve disaster preparedness. 
 
