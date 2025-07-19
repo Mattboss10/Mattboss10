@@ -7,5 +7,3 @@ My name is Matthew Cohen, a first year student at UWI Mona, I'm interested in So
 - 👯 I’m looking to collaborate on Social Good Projects
 - 📫 How to reach me: 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a black Cat named Queenie 🐈‍⬛(like the github cat)
-
