@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 My name is Matthew Cohen, a student at UWI Mona studying Computer Science, I am interested in Software Development,Defi Protocol engineering, Systems Thinking and have a passion for all things Computing. 👾
-- 🤖 I’m currently working on:
-  [Strata](https://github.com/Mattboss10/Strata), A Signal-Driven Dynamic Fee Hook for LVR Mitigation.
+- 🤖 I’m currently working on two projects:
+  [Strata](https://github.com/Mattboss10/Strata), A Signal-Driven Dynamic Fee Hook for LVR Mitigation 
   AND
   [Commander](https://commandersolver.com), A CoW protocol Solver
   
