@@ -4,7 +4,7 @@ My name is Matthew Cohen, a student at UWI Mona studying Computer Science, I am 
 - 🤖 I’m currently working on:
   [Strata](https://github.com/Mattboss10/Strata), A Signal-Driven Dynamic Fee Hook for LVR Mitigation.
   AND
-  [Commander]https://commandersolver.com/, A CoW protocol Solver
+  [Commander](https://commandersolver.com), A CoW protocol Solver
   
 -  🔭 I previosuly worked on a project called [CleanFlow](https://github.com/Mattboss10/ProjectCleanFlow), a multihazard reporting app to improve disaster preparedness. 
 
